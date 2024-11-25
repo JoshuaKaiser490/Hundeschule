@@ -22,7 +22,7 @@ body {
   .menu {
     color: white;
     text-decoration: none;
-    margin-left: 16px;
+    margin-left: 16px; 
   }
 
   .menu:hover {
